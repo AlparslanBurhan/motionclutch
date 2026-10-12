@@ -1,44 +1,8 @@
-# MotionClutch — Gizlilik Politikası / Privacy Policy
+# MotionClutch — Privacy Policy / Gizlilik Politikası
 
-**Son güncelleme / Last updated: 20 Eylül 2026**
+**Last updated: 20 September 2026 · Son güncelleme: 20 Eylül 2026**
 
-
----
-
-## Türkçe
-
-### Kısa cevap
-
-**MotionClutch hiçbir veri toplamaz.** Hesap yok, sunucu yok, analitik yok, reklam yok,
-izleme yok. Uygulama hiçbir ağ bağlantısı kurmaz.
-
-### Uzun cevap
-
-**Videolarınız.** MotionClutch kamera ve mikrofonla video kaydeder. Kaydedilen her şey
-yalnızca telefonunuzda kalır. Kayıt tamamlandığında video, sizin izninizle **Fotoğraflar**
-uygulamanıza eklenir ve uygulamanın geçici dosyaları silinir. Videolarınız hiçbir yere
-gönderilmez; uygulamanın onları gönderebileceği bir yer yoktur.
-
-**Fotoğraflar erişimi.** Uygulama Fotoğraflar'a **yalnızca ekleme** izni ister. Mevcut
-fotoğraf ve videolarınızı okuyamaz, göremez, listeleyemez.
-
-**Ayarlarınız.** Lens, çözünürlük, önbellek süresi, stabilizasyon, kısayol ve geri bildirim
-tercihleriniz telefonunuzda, uygulamanın kendi alanında saklanır. Bu ayarlar cihazdan
-çıkmaz ve uygulamayı sildiğinizde birlikte silinir.
-
-**Disk alanı.** Uygulama, kaydı güvenle tamamlayabilmek için telefonunuzda kalan boş alanı
-okur. Bu bilgi yalnızca "kayıt sığacak mı" sorusunu yanıtlamak için kullanılır ve hiçbir
-yere iletilmez.
-
-**Konum.** Uygulama konum bilgisine **hiç erişmez**. Videolara konum etiketi eklenmez.
-
-**Üçüncü taraflar.** Uygulamada hiçbir üçüncü taraf kütüphanesi, SDK'sı veya hizmeti yoktur.
-
-**Çocuklar.** Uygulama veri toplamadığı için çocuklardan da veri toplamaz.
-
-**Değişiklikler.** Bu politika değişirse bu sayfa güncellenir ve üstteki tarih değişir.
-
-**İletişim.** Soru ve talepleriniz için: `motionclutch@icloud.com`
+[English](#english) · [Türkçe](#tr)
 
 ---
 
@@ -77,3 +41,40 @@ transmitted.
 change.
 
 **Contact.** For questions or requests: `motionclutch@icloud.com`
+
+---
+
+## Türkçe {#tr}
+
+### Kısa cevap
+
+**MotionClutch hiçbir veri toplamaz.** Hesap yok, sunucu yok, analitik yok, reklam yok,
+izleme yok. Uygulama hiçbir ağ bağlantısı kurmaz.
+
+### Uzun cevap
+
+**Videolarınız.** MotionClutch kamera ve mikrofonla video kaydeder. Kaydedilen her şey
+yalnızca telefonunuzda kalır. Kayıt tamamlandığında video, sizin izninizle **Fotoğraflar**
+uygulamanıza eklenir ve uygulamanın geçici dosyaları silinir. Videolarınız hiçbir yere
+gönderilmez; uygulamanın onları gönderebileceği bir yer yoktur.
+
+**Fotoğraflar erişimi.** Uygulama Fotoğraflar'a **yalnızca ekleme** izni ister. Mevcut
+fotoğraf ve videolarınızı okuyamaz, göremez, listeleyemez.
+
+**Ayarlarınız.** Lens, çözünürlük, önbellek süresi, stabilizasyon, kısayol ve geri bildirim
+tercihleriniz telefonunuzda, uygulamanın kendi alanında saklanır. Bu ayarlar cihazdan
+çıkmaz ve uygulamayı sildiğinizde birlikte silinir.
+
+**Disk alanı.** Uygulama, kaydı güvenle tamamlayabilmek için telefonunuzda kalan boş alanı
+okur. Bu bilgi yalnızca "kayıt sığacak mı" sorusunu yanıtlamak için kullanılır ve hiçbir
+yere iletilmez.
+
+**Konum.** Uygulama konum bilgisine **hiç erişmez**. Videolara konum etiketi eklenmez.
+
+**Üçüncü taraflar.** Uygulamada hiçbir üçüncü taraf kütüphanesi, SDK'sı veya hizmeti yoktur.
+
+**Çocuklar.** Uygulama veri toplamadığı için çocuklardan da veri toplamaz.
+
+**Değişiklikler.** Bu politika değişirse bu sayfa güncellenir ve üstteki tarih değişir.
+
+**İletişim.** Soru ve talepleriniz için: `motionclutch@icloud.com`
