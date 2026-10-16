@@ -4,6 +4,11 @@
 
 [English](#english) · [Türkçe](#tr)
 
+> This page covers the **iOS** version of MotionClutch.
+> The Android version has its own policy: [Privacy Policy (Android)](privacy-android).
+> Bu sayfa **iOS** sürümünü kapsar; Android sürümünün kendi politikası vardır:
+> [Gizlilik Politikası (Android)](privacy-android#tr).
+
 ---
 
 ## English

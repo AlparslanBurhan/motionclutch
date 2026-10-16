@@ -40,7 +40,7 @@ it back on.
 
 **Is my data collected?**
 No. There are no accounts, no cloud, no analytics and no network connections.
-[Privacy policy](privacy)
+Privacy policy: [iOS](privacy) · [Android](privacy-android)
 
 ### Contact
 
@@ -88,7 +88,7 @@ Kayıt başlayınca önizleme kapatılır; ekrana iki kez dokunarak geri açabil
 
 **Verilerim toplanıyor mu?**
 Hayır. Hesap, bulut, analitik ve ağ bağlantısı yoktur.
-[Gizlilik politikası](privacy#tr)
+Gizlilik politikası: [iOS](privacy#tr) · [Android](privacy-android#tr)
 
 ### İletişim
 
