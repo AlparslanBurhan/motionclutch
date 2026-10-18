@@ -1,6 +1,6 @@
 # MotionClutch — Privacy Policy / Gizlilik Politikası (Android)
 
-**Last updated: 16 October 2026 · Son güncelleme: 16 Ekim 2026**
+**Last updated: 18 October 2026 · Son güncelleme: 18 Ekim 2026**
 
 [English](#english) · [Türkçe](#tr)
 
@@ -16,7 +16,7 @@
 ### Short answer
 
 **MotionClutch collects no data.** No accounts, no servers, no analytics, no ads, no
-tracking. The app does not have the internet permission and makes no network requests.
+tracking. The app does not have the internet permission and makes no network requests of its own.
 
 ### Long answer
 
@@ -38,9 +38,12 @@ transmitted.
 
 **Location.** The app does **not** access location at all. Videos are not geotagged.
 
-**Third parties.** The app contains no analytics, advertising or tracking SDKs. The only
-bundled libraries are the standard Android user-interface components, which run entirely on
-the device.
+**Third parties.** The app contains no analytics, advertising or tracking SDKs. Besides the
+standard Android user-interface components, which run entirely on the device, the only bundled
+library is Google Play's in-app update library. It asks the Play Store app on your phone
+whether a newer version of MotionClutch is available, so that the update can be offered
+inside the app. The app itself sends nothing; the check is made by the Play Store under
+[Google's privacy policy](https://policies.google.com/privacy).
 
 **Children.** Since the app collects no data, it collects no data from children either.
 
@@ -56,7 +59,7 @@ change.
 ### Kısa cevap
 
 **MotionClutch hiçbir veri toplamaz.** Hesap yok, sunucu yok, analitik yok, reklam yok,
-izleme yok. Uygulamanın internet izni yoktur ve hiçbir ağ bağlantısı kurmaz.
+izleme yok. Uygulamanın internet izni yoktur ve kendisi hiçbir ağ bağlantısı kurmaz.
 
 ### Uzun cevap
 
@@ -78,9 +81,12 @@ yere iletilmez.
 
 **Konum.** Uygulama konum bilgisine **hiç erişmez**. Videolara konum etiketi eklenmez.
 
-**Üçüncü taraflar.** Uygulamada analitik, reklam veya izleme SDK'sı yoktur. Uygulamaya
-gömülü tek kütüphaneler Android'in standart arayüz bileşenleridir ve tamamen cihazda
-çalışır.
+**Üçüncü taraflar.** Uygulamada analitik, reklam veya izleme SDK'sı yoktur. Tamamen cihazda
+çalışan Android'in standart arayüz bileşenleri dışında uygulamaya gömülü tek kütüphane, Google
+Play'in uygulama içi güncelleme kütüphanesidir. Bu kütüphane, güncellemenin uygulama içinde
+önerilebilmesi için telefonunuzdaki Play Store uygulamasına MotionClutch'ın yeni sürümü olup
+olmadığını sorar. Uygulamanın kendisi hiçbir şey göndermez; kontrolü Play Store,
+[Google'ın gizlilik politikası](https://policies.google.com/privacy) kapsamında yapar.
 
 **Çocuklar.** Uygulama veri toplamadığı için çocuklardan da veri toplamaz.
 
